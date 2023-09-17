@@ -9,3 +9,6 @@ Here you can find the competition - https://www.kaggle.com/competitions/house-pr
 
 #### 3. Digit recognizer
 Here you can find the competition - https://www.kaggle.com/competitions/digit-recognizer
+
+#### 4. Spotify popuplarity prediction
+Here you can find the competition- https://www.kaggle.com/competitions/spotify-popularity-prediction-v2
