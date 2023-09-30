@@ -12,3 +12,6 @@ Here you can find the competition - https://www.kaggle.com/competitions/digit-re
 
 #### 4. Spotify popuplarity prediction
 Here you can find the competition- https://www.kaggle.com/competitions/spotify-popularity-prediction-v2
+
+#### 5. Gender classification
+Here you can find the competition - https://www.kaggle.com/competitions/dsm-l0-genderclassification/overview
