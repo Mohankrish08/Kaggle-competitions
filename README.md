@@ -15,3 +15,7 @@ Here you can find the competition- https://www.kaggle.com/competitions/spotify-p
 
 #### 5. Gender classification
 Here you can find the competition - https://www.kaggle.com/competitions/dsm-l0-genderclassification/overview
+
+
+#### 6. Mobile Phone market in Ghana
+Here you can find the competition - https://www.kaggle.com/datasets/redpen12/mobile-phone-market-in-ghana/data
