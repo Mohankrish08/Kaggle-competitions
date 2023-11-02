@@ -1,6 +1,17 @@
 # Kaggle-competitions
 
 
+Clone this repo
+
+```bash
+git clone https://github.com/Mohankrish08/Kaggle-competitions
+
+Navigate to the competition
+
+```bash
+cd <Folder>
+
+
 #### 1. Spaceship Titanic
 Here you can find the competition - https://www.kaggle.com/competitions/spaceship-titanic
 
@@ -19,3 +30,6 @@ Here you can find the competition - https://www.kaggle.com/competitions/dsm-l0-g
 
 #### 6. Mobile Phone market in Ghana
 Here you can find the competition - https://www.kaggle.com/datasets/redpen12/mobile-phone-market-in-ghana/data
+
+### 7. Binary Classification for Stroke Prediction
+Here you can find the competition - https://www.kaggle.com/competitions/playground-series-s3e2
