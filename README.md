@@ -1,15 +1,15 @@
 # Kaggle-competitions
 
 
-Clone this repo
+1. Clone this repo
 
-```bash
-git clone https://github.com/Mohankrish08/Kaggle-competitions
+    ```bash
+    git clone https://github.com/Mohankrish08/Kaggle-competitions
 
-Navigate to the competition
+2. Navigate to the competition
 
-```bash
-cd <Folder>
+    ```bash
+    cd <Folder>
 
 
 #### 1. Spaceship Titanic
