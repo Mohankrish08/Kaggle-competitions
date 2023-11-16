@@ -9,7 +9,7 @@
 2. Navigate to the competition
 
     ```bash
-    cd <Folder>
+    cd <Folder name>
 
 
 #### 1. Spaceship Titanic
